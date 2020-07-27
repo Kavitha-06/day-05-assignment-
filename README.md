@@ -1,2 +1,2 @@
-# day-05-assignment-
+# python-day-05-assignment
 Letsupgrade
